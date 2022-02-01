@@ -1,0 +1,15 @@
+pyvenv.cfg
+*.log
+
+# Distribution / packaging
+bin/
+build/
+dist/
+env/
+lib/
+env/lib
+temp/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
