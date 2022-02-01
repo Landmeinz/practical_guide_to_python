@@ -1,7 +1,7 @@
 
 # Practical Guide to Python
 
-### Frontend Masters Python course
+### Frontend Masters Python Course
 
 This course leverages your experience as a coder in other languages to quickly get you up to speed with writing effective Python. 
 Learn why you might want to use Python and all the foundational basics: data types, numbers, strings, lists, sets, tuples, and dictionaries. 
