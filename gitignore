@@ -5,7 +5,7 @@ pyvenv.cfg
 bin/
 build/
 dist/
-env/lib
+env/
 lib/
 temp/
 
