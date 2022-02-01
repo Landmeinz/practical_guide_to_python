@@ -5,9 +5,8 @@ pyvenv.cfg
 bin/
 build/
 dist/
-env/
-lib/
 env/lib
+lib/
 temp/
 
 # Installer logs
